@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine analytical skills, the ability to work in team environments, problem-solving, and attention to details. My credentials include a Degree in Aeronautical Science and Public Administration at the Air Force Academy.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+ <h3> :rocket: &nbsp; Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
 </p>
 
 <p align="left">
