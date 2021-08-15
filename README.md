@@ -28,7 +28,8 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: José Sales](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesalesjdsj@gmail.com)](mailto:josesalesjdsj@gmail.com)
+[![Linkedin: José Sales](https://img.shields.io/badge/-JOSESALES-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
+[![Gmail Badge](https://img.shields.io/badge/-josesalesjdsj@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesalesjdsj@gmail.com)](mailto:josesalesjdsj@gmail.com)
+[![GitHub SALESJDSJ]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Salesjdsj)
    
 
