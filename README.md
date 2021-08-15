@@ -14,7 +14,7 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
 
 <p align="left">
   💼 Blog:
-("https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@josesalesjdsj/)(https://medium.com/@josesalesjdsj)" /></strong>
+[![Medium: José Dimas Sales Junior](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@josesalesjdsj/)](https://medium.com/@josesalesjdsj/)
 </p>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
