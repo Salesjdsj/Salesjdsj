@@ -24,5 +24,5 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="josesalesjdsj@gmail.com"" /></a>
 
   <a href="#" alt="Linkedin">
-   [![author](https://img.shields.io/badge/author-JoséSales-red.svg)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
+   
 
