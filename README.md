@@ -21,6 +21,6 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
  
 - Thanks for visiting. 
  
-- Enjoy it!! o/
+- Enjoy it!
    
 
