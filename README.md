@@ -20,6 +20,7 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
 
 [![Linkedin: José Sales](https://img.shields.io/badge/-JoséSales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
 [![Gmail Badge](https://img.shields.io/badge/-josesalesjdsj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesalesjdsj@gmail.com)](mailto:josesalesjdsj@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesalesjdsj@gmail.com)](mailto:josesalesjdsj@gmail.com)
 [![GitHub SALESJDSJ]( https://img.shields.io/github/followers/Salesjdsj?label=follow&style=social)](https://github.com/Salesjdsj)
    
 
