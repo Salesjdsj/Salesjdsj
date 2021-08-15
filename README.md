@@ -7,13 +7,13 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
 </p>
 
 <p align="left">
- <h3> :rocket: &nbsp;Skills: 
+rocket: &nbsp;Skills: 
   <strong><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></strong>
   <strong><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></strong>
 </p>
 
 
-##About me:
+## About me:
 
 [![Linkedin: José Sales](https://img.shields.io/badge/-JoséSales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesalesjdsj@gmail.com)](mailto:josesalesjdsj@gmail.com)
