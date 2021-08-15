@@ -25,4 +25,4 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
 
   <a href="#" alt="Linkedin">
    [![author](https://img.shields.io/badge/author-JoséSales-red.svg)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
-  [(https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
+  [!(https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
