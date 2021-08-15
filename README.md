@@ -17,18 +17,9 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
   <strong><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></strong>
 </p>
 
-
-<br/>
-
-<a href="https://github.com/Salesjdsj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salesjdsj&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: José Sales](https://img.shields.io/badge/-José Sales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
+[![Linkedin: José Sales](https://img.shields.io/badge/-JoséSales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/)
 [![Gmail Badge](https://img.shields.io/badge/-josesalesjdsj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesalesjdsj@gmail.com)](mailto:josesalesjdsj@gmail.com)
 [![GitHub SALESJDSJ]( https://img.shields.io/github/followers/Salesjdsj?label=follow&style=social)](https://github.com/Salesjdsj)
    
