@@ -16,7 +16,7 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
 ## About me:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:josesalesjdsj@gmail.com)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@josesalesjdsj)  
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@josesalesjdsj)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jos%C3%A9-sales-7aa596218/) 
  
 - Thanks for visiting. 
