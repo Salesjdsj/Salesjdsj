@@ -5,7 +5,8 @@ As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine an
 </p>
 
 <p align="left">
- <h3> :rocket: &nbsp; Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+ <h3> :rocket: &nbsp;Linguagens: <strong><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></strong>
+                                 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="left">
