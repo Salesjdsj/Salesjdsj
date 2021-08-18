@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-As a Data Science student and Fighter Pilot at Brazilian Air Force, I combine analytical skills, the ability to work in team environments, problem-solving, and attention to details. My credentials include a Degree in Aeronautical Science and Public Administration at the Air Force Academy.
+As Fighter Pilot at Brazilian Air Force and Data Scientist, I combine analytical skills, the ability to work in team environments, problem-solving, and attention to details. My credentials include a Degree in Aeronautical Science and Public Administration at the Air Force Academy.
 </p>
 
 <p align="left">
